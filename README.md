@@ -4,7 +4,8 @@
 <img src="https://github.com/utsav-galphat/spring-boot-rest-crud-demo/blob/master/EMPLOYEE.png"/>
 
 
-####Please execute below queries to create db table 
+
+#### Please execute below queries to create db table 
 
 >CREATE DATABASE  IF NOT EXISTS `employee_directory`;
 > 
