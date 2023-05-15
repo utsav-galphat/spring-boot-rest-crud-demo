@@ -1,5 +1,8 @@
 # Employee details spring boot app 
 ##### This application provide employee information using rest api and store the employee details in DB 
+<!-- HTML approach -->
+<img src="https://github.com/utsav-galphat/spring-boot-rest-crud-demo/blob/master/EMPLOYEE.png"/>
+
 
 ####Please execute below queries to create db table 
 
